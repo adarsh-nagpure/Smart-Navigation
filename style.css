@@ -75,7 +75,7 @@ li.active .nav-text{
   align-items: center;
 }
 
-.indicator{
+.child{
  position: absolute;
  background-color: rgb(231, 145, 92);
  width: 55px;

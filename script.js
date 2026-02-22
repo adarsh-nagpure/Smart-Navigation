@@ -1,5 +1,5 @@
 const items = document.querySelectorAll('.nav li');
-const indicator = document.querySelector('.indicator');
+const indicator = document.querySelector('.child');
 const circleIcon = document.querySelector('.circle');  
 
 
